@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1645272560309" stop="1645272574511" version="1.5.0" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : AutomationFramework</name>
+    <title>Default Suite : AutomationFramework</title>
+    <test-cases>
+        <test-case start="1645272562705" stop="1645272564682" status="passed">
+            <name>launchApplication</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="AutomationFramework"/>
+                <label name="testClass" value="com.tests.GoogleSearchTest"/>
+                <label name="testMethod" value="launchApplication"/>
+                <label name="host" value="NOVI-C02FF5CZMD6M.local"/>
+                <label name="thread" value="90923@NOVI-C02FF5CZMD6M.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1645272564687" stop="1645272567867" status="passed">
+            <name>verifyGoogleSearchIsWorking</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="AutomationFramework"/>
+                <label name="testClass" value="com.tests.GoogleSearchTest"/>
+                <label name="testMethod" value="verifyGoogleSearchIsWorking"/>
+                <label name="host" value="NOVI-C02FF5CZMD6M.local"/>
+                <label name="thread" value="90923@NOVI-C02FF5CZMD6M.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1645272567871" stop="1645272571348" status="passed">
+            <name>verifyAmazonIsWorking</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="AutomationFramework"/>
+                <label name="testClass" value="com.tests.GoogleSearchTest"/>
+                <label name="testMethod" value="verifyAmazonIsWorking"/>
+                <label name="host" value="NOVI-C02FF5CZMD6M.local"/>
+                <label name="thread" value="90923@NOVI-C02FF5CZMD6M.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
